@@ -1,0 +1,3 @@
+[1227/150300.364:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1227/150300.366:ERROR:exception_snapshot_win.cc(98)] thread ID 10200 not found in process
+[1227/150300.366:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Podjeto próbe uzyskania dostepu do procesu konczacego dzialanie. (0xc000010a)
